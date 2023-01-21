@@ -1,0 +1,6 @@
+function salida = signal_vf(t, delay, periodo, )
+%UNTITLED2 Summary of this function goes here
+%   Detailed explanation goes here
+salida=sin(t);
+end
+
